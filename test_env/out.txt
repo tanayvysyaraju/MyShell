@@ -1,0 +1,6 @@
+data.c
+file1.txt
+file2.txt
+out.txt
+sample.txt
+subdir
