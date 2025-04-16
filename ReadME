@@ -1,3 +1,6 @@
+Tanay Vysyaraju: tv193
+Saroop Makhija: ssm229
+
 **Overview**
 This project implements a basic command-line shell (mysh) in C using POSIX system calls such as read(), fork(), execv(), dup2(), and pipe(). 
 The shell supports both interactive and batch modes and interprets a variety of commands and features in a unified input-processing loop.
